@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Some Person 1",
+    "address": "Ankara",
+    "phone": "(314) 291-6958",
+    "photoUrl": "/profiles/avatar1.png"
+  },
+  {
+    "name": "Some Person 2",
+    "address": "Istanbul",
+    "phone": "(902) 758-7304",
+    "photoUrl": "/profiles/avatar2.png"
+  },
+  {
+    "name": "Some Person 3",
+    "address": "Riga",
+    "phone": "(255) 146-6886",
+    "photoUrl": "/profiles/avatar3.png"
+  },
+  {
+    "name": "Some Person 4",
+    "address": "Tallinn",
+    "phone": "(417) 210-7652",
+    "photoUrl": "/profiles/avatar4.png"
+  },
+  {
+    "name": "Some Person 5",
+    "address": "Kiev",
+    "phone": "(995) 113-1620",
+    "photoUrl": "/profiles/avatar1.png"
+  },
+  {
+    "name": "Some Person 6",
+    "address": "Odesa",
+    "phone": "(527) 653-2676",
+    "photoUrl": "/profiles/avatar2.png"
+  },
+  {
+    "name": "Some Person 7",
+    "address": "Kharkov",
+    "phone": "(432) 421-3267",
+    "photoUrl": "/profiles/avatar3.png"
+  },
+  {
+    "name": "Some Person 9",
+    "address": "Lvov",
+    "phone": "(218) 696-2526",
+    "photoUrl": "/profiles/avatar4.png"
+  },
+  {
+    "name": "Some Person 10",
+    "address": "Amsterdam",
+    "phone": "(650) 549-3249",
+    "photoUrl": "/profiles/avatar1.png"
+  },
+  {
+    "name": "Some Person 11",
+    "address": "Berlin",
+    "phone": "(726) 698-7401",
+    "photoUrl": "/profiles/avatar2.png"
+  },
+  {
+    "name": "Some Person 12",
+    "address": "Tbilisi",
+    "phone": "(145) 449-3473",
+    "photoUrl": "/profiles/avatar3.png"
+  },
+  {
+    "name": "Some Person 13",
+    "address": "Batumi",
+    "phone": "(462) 542-2378",
+    "photoUrl": "/profiles/avatar1.png"
+  }
+]
